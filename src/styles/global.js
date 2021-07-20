@@ -13,7 +13,7 @@ export default createGlobalStyle `
         min-height: 100%;
     }
     body{
-        background:#8A2BE2;
+        background:#00bfff;
         font-size:14px;
         -webkit-font-smoothing: antialiased !important;
     }
